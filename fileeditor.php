@@ -213,7 +213,6 @@ class fileeditor extends CInputWidget
 			$arr[$file] = str_replace("$dir", "", $file);
 		return $arr;
 	}
-
 }
 
 
