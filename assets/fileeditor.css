@@ -1,0 +1,81 @@
+.containerEditor{
+/* 	border:1px solid red; */
+}
+
+.feditor_textarea{
+	display:none;
+}
+
+.editableFiles{
+	border:1px solid #ddd;
+}
+
+.zoneFiles{
+	float:left;
+}
+.fileselector{
+    border: 0;
+    width: 0;
+    background: none repeat scroll 0 0 #FFFFEE;
+    font-size: 9pt;
+    height: 480px;
+    padding-left: 3px;
+    display:none;
+}
+
+.zoneEditor{
+    float: left;
+}
+
+.selectedFile{
+	font-weight:bold;
+	text-align:center;
+}
+
+.zoneTools{
+	margin-bottom:3px;
+/* 	display:none; */
+}
+
+
+.feInputNewDocument{
+	background:none repeat scroll 0 0 #FFFFEE;
+	border:1px solid #888888;
+	 width: 140px;
+	margin-left:2px;
+}
+
+.feDirsList{
+	background:none repeat scroll 0 0 #FFFFEE;
+	border:1px solid #888888;
+	width:140px;
+	margin-left:2px;
+}
+
+.ferow{
+    margin-bottom: 3px;
+}
+.felabel{
+    float: left;
+    width: 125px;
+}
+
+.fefield{
+	float:left;
+}
+.newfileinserted{
+	color:red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
