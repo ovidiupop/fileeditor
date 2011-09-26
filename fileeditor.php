@@ -7,7 +7,7 @@
  * @copyright 2011 Binary Technology
  * @license released under dual license BSD License and LGP License
  * @package fileeditor
- * @version 0.1
+ * @version 0.2
  */
 
 class fileeditor extends CInputWidget
