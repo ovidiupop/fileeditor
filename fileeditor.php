@@ -20,7 +20,9 @@ class fileeditor extends CInputWidget
 	 * @var array labels of browseable folders
 	 */
 	public $arrTypes = array();
-
+	/**
+	* @var array params for editor
+	*/
 	public $options = array(
 		'name'=>'feditor',
 		'class'=>'feditor',
